@@ -8,9 +8,9 @@ Cada grupo deve submeter os seguintes arquivos:
 3. Arquivo .sql com os comandos DDL para criação da estrutura do bd.
 4. Arquivo .sql com os comandos DML contendo os inserts, 1 update e 1 delete
 5. Arquivo .sql com os comandos DQL:
- * Pelo menos 2 com algum tipo de junção
- * Pelo menos 1 com usando count() e group by()
- * 1 SQL para construção de nota fiscal
+    * Pelo menos 2 com algum tipo de junção
+    * Pelo menos 1 com usando count() e group by()
+    * 1 SQL para construção de nota fiscal
 6. Uma cópia do banco de dados completo (<nome do bd>.db)
 
 A submissão deve ser feita no diretório de acordo com o nome do seu grupo. Para realizar o envio, seguir o passo a passo como descrito a seguir (exemplo terminal linux):
