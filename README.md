@@ -1,2 +1,2 @@
-# rsw_bd
-Repositório para submissão de atividades
+# Residência de Software - Projeto de banco de dados
+Repositório para submissão de atividades.
